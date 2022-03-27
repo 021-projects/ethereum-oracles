@@ -1,6 +1,13 @@
 {
     "name": "021/ethereum-oracles",
-    "description": "Provide ethereum oracles apis",
+    "description": "Getting blockchain statistics from Ethereum oracles",
+    "keywords": [
+        "021",
+        "ethereum",
+        "oracles",
+        "fees",
+        "estimate"
+    ],
     "type": "library",
     "license": "MIT",
     "autoload": {
